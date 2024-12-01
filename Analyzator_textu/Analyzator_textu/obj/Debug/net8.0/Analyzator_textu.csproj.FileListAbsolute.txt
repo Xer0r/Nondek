@@ -1,0 +1,14 @@
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\bin\Debug\net8.0\Analyzator_textu.exe
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\bin\Debug\net8.0\Analyzator_textu.deps.json
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\bin\Debug\net8.0\Analyzator_textu.runtimeconfig.json
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\bin\Debug\net8.0\Analyzator_textu.dll
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\bin\Debug\net8.0\Analyzator_textu.pdb
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\Analyzator_textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\Analyzator_textu.AssemblyInfoInputs.cache
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\Analyzator_textu.AssemblyInfo.cs
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\Analyzator_textu.csproj.CoreCompileInputs.cache
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\Analyzator_textu.dll
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\refint\Analyzator_textu.dll
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\Analyzator_textu.pdb
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\Analyzator_textu.genruntimeconfig.cache
+C:\Users\nonde\source\repos\Analyzator_textu\Analyzator_textu\obj\Debug\net8.0\ref\Analyzator_textu.dll

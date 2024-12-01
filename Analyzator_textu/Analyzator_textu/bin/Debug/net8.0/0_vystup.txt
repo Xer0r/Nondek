@@ -1,0 +1,7 @@
+Počet slov: 1
+Počet znaků (bez bílých znaků): 4
+Počet znaků (s bílými znaky): 4
+
+azAZ: 1
+
+azAZ
