@@ -1,0 +1,38 @@
+@misc{gottfredson1997mainstream,
+  title={Mainstream science on intelligence: An editorial with 52 signatories, history, and bibliography},
+  author={Gottfredson, Linda S},
+  journal={Intelligence},
+  volume={24},
+  number={1},
+  pages={13--23},
+  year={1997},
+  publisher={JAI}
+}
+
+https://brocku.ca/MeadProject/sup/Boring_1923.html
+
+@inproceedings{rosa-etal-2022-theaitrobot,
+    title = "{THE}ai{TR}obot: An Interactive Tool for Generating Theatre Play Scripts",
+    author = "Rosa, Rudolf  and
+      Schmidtov{\'a}, Patr{\'i}cia  and
+      Zakhtarenko, Alisa  and
+      Dusek, Ondrej  and
+      Musil, Tom{\'a}{\v{s}}  and
+      Mare{\v{c}}ek, David  and
+      Ul Islam, Saad  and
+      Novakova, Marie  and
+      Vosecka, Klara  and
+      Hrbek, Daniel  and
+      Kostak, David",
+    editor = "Shaikh, Samira  and
+      Ferreira, Thiago  and
+      Stent, Amanda",
+    booktitle = "Proceedings of the 15th International Conference on Natural Language Generation: System Demonstrations",
+    month = jul,
+    year = "2022",
+    address = "Waterville, Maine, USA and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.inlg-demos.4/",
+    pages = "10--13",
+    abstract = "We present a free online demo of THEaiTRobot, an open-source bilingual tool for interactively generating theatre play scripts, in two versions. THEaiTRobot 1.0 uses the GPT-2 language model with minimal adjustments. THEaiTRobot 2.0 uses two models created by fine-tuning GPT-2 on purposefully collected and processed datasets and several other components, generating play scripts in a hierarchical fashion (title $\rightarrow$ synopsis $\rightarrow$ script). The underlying tool is used in the THEaiTRE project to generate scripts for plays, which are then performed on stage by a professional theatre."
+}
