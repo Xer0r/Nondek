@@ -1,3 +1,76 @@
+@article{konvoluvcni,
+  title={Konvoluční neuronové sítě a jejich implementace},
+  author={Schmid, Martin},
+  year={2011},
+  publisher={Univerzita Karlova, Matematicko-fyzikální fakulta}
+}
+
+@article{neuronove_kacenka,
+  title={Neuronové sítě},
+  author={Kačenka, Petr},
+  journal={Historie, využití neuronových sítí a často používané typy sítí
+}
+
+@article{neuronove_volna,
+  title={Evoluční algoritmy a neuronové sítě},
+  author={Volná, Eva},
+  journal={Ostrava. Ostravská Univerzita},
+  year={2012}
+}
+
+@book{obec_int,
+  title={Umělá obecná inteligence},
+  author={Teigens, Vasil},
+  volume={1},
+  publisher={Cambridge Stanford Books}
+}
+
+@article{llm_iq,
+  title={Administration of the text-based portions of a general IQ test to five different large language models},
+  author={King, Michael},
+  journal={Authorea Preprints},
+  year={2023},
+  publisher={Authorea}
+}
+
+@article{huang2024measuring,
+  title={Measuring the IQ of Mainstream Large Language Models in Chinese Using the Wechsler Adult Intelligence Scale},
+  author={Huang, Jingjing and Li, Ou},
+  journal={Authorea Preprints},
+  year={2024},
+  publisher={Authorea}
+}
+
+@article{boring,
+  title={Intelligence as the tests test it.},
+  author={Boring, Edwin G},
+  year={1961},
+  publisher={Appleton-Century-Crofts}
+}
+
+@article{mnist,
+  title={MNIST handwritten digit database},
+  author={LeCun, Yann and Cortes, Corinna and Burges, CJ},
+  journal={ATT Labs [Online]. Available: http://yann.lecun.com/exdb/mnist},
+  volume={2},
+  year={2010}
+}
+
+@online{CiteDrive2022,
+  title        = {CiteDrive brings reference management to Overleaf},
+  author       = {CiteDrive, Inc},
+  year         = {2022},
+  url          = {https://www.citedrive.com/overleaf},
+  urldate      = {Use the date of access}
+}
+
+
+
+
+
+
+
+
 @misc{gottfredson1997mainstream,
   title={Mainstream science on intelligence: An editorial with 52 signatories, history, and bibliography},
   author={Gottfredson, Linda S},
@@ -35,4 +108,34 @@ https://brocku.ca/MeadProject/sup/Boring_1923.html
     url = "https://aclanthology.org/2022.inlg-demos.4/",
     pages = "10--13",
     abstract = "We present a free online demo of THEaiTRobot, an open-source bilingual tool for interactively generating theatre play scripts, in two versions. THEaiTRobot 1.0 uses the GPT-2 language model with minimal adjustments. THEaiTRobot 2.0 uses two models created by fine-tuning GPT-2 on purposefully collected and processed datasets and several other components, generating play scripts in a hierarchical fashion (title $\rightarrow$ synopsis $\rightarrow$ script). The underlying tool is used in the THEaiTRE project to generate scripts for plays, which are then performed on stage by a professional theatre."
+}
+
+
+@article{neuronovekacenka,
+  title={Neuronové sítě},
+  author={Kačenka, Petr},
+  journal={Historie, využití neuronových sítí a často používané typy sítí
+}
+
+@article{neuronovevolna,
+  title={Evoluční algoritmy a neuronové sítě},
+  author={Volná, Eva},
+  journal={Ostrava. Ostravská Univerzita},
+  year={2012}
+}
+
+@book{obecint,
+  title={Umělá obecná inteligence},
+  author={Teigens, Vasil},
+  volume={1},
+  publisher={Cambridge Stanford Books}
+}
+
+
+@article{llmiq,
+  title={Administration of the text-based portions of a general IQ test to five different large language models},
+  author={King, Michael},
+  journal={Authorea Preprints},
+  year={2023},
+  publisher={Authorea}
 }
