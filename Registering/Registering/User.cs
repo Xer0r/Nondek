@@ -15,7 +15,7 @@ namespace Registering
 
     public static class CsvHelper
     {
-        private static string destinationPath = Path.Combine(Directory.GetCurrentDirectory(), "Users", "users.csv");
+        private static string destinationPath = Path.Combine("Users", "users.csv") /*Path.Combine(Directory.GetCurrentDirectory(), "Users", "users.csv")*/;
 
     public static List<User> ReadUsers()
         {

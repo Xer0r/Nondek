@@ -5,16 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:System;assembly=mscorlib" xmlns:local1="clr-namespace:Registering"
         mc:Ignorable="d"
-        Title="User Profile" Height="350" Width="400">
+        Title="User Profile" Height="410" Width="500">
     <Grid>
-        <Image Name="ProfileImage" HorizontalAlignment="Center" VerticalAlignment="Top" Height="100" Width="100"/>
-        <TextBlock Name="UsernameText" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16"/>
-        <TextBlock Name="FavoriteQuoteText" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="12"/>
+        <Border Background="White" Width="360" Height="300"/>
+
+        <Ellipse HorizontalAlignment="Left" Name="ProfileImage"  Width="200" Height="150" VerticalAlignment="Top" Margin="29,29,0,0">
+            <Ellipse.Fill>
+                <ImageBrush/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <TextBlock Name="UsernameText" HorizontalAlignment="Left" FontSize="25" Margin="250,178,0,0" Height="39" VerticalAlignment="Top"/>
+        <TextBlock Name="FavoriteQuoteText" FontSize="15" TextWrapping="WrapWithOverflow" HorizontalAlignment="Left" Width="408" Margin="46,243,0,0" Height="230" VerticalAlignment="Top" TextAlignment="Justify"/>
         <Button HorizontalAlignment="Right" VerticalAlignment="Top" Click="Logout_Click">
             <Button.Content>
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="logout_icon.png" Width="16" Height="16"/>
-                    <TextBlock Text="Logout" Margin="5,0,0,0"/>
+                    <Image Source="/logout_icon.png" Width="21" Height="20"/>
+                    <TextBlock Text="Logout" Margin="5,0,0,0" Height="24" Width="42"/>
                 </StackPanel>
             </Button.Content>
         </Button>

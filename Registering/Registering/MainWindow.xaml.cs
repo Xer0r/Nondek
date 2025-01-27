@@ -1,5 +1,8 @@
 ﻿using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
 
 namespace Registering
 {
@@ -13,7 +16,8 @@ namespace Registering
             InitializeComponent();
             UsernameText.Text = user.Username;
             FavoriteQuoteText.Text = user.FavoriteQuote;
-            ProfileImage.Source = new BitmapImage(new Uri(user.ProfileImagePath, UriKind.Relative));
+            ProfileImage.Fill.SetValue(ImageBrush.ImageSourceProperty, new ImageSourceConverter().ConvertFromString(user.ProfileImagePath));
+            //ProfileImage.Source = new BitmapImage(new Uri(user.ProfileImagePath, UriKind.Relative));
         }
 
         private void Logout_Click(object sender, RoutedEventArgs e)

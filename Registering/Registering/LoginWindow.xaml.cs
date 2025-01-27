@@ -21,6 +21,12 @@ namespace Registering
             var username = LoginUsername.Text;
             var password = LoginPassword.Password;
 
+            if (username == null || password == null)
+            {
+                RegisterError.Text = "Complete all the requirements, please";
+                return;
+            }
+
             var user = users.FirstOrDefault(u => u.Username == username);
             if (user == null)
             {
@@ -40,19 +46,24 @@ namespace Registering
 
         private void Register_Click(object sender, RoutedEventArgs e)
         {
-            var username = RegisterUsername.Text;
-            var password = RegisterPassword.Password;
-            var favoriteQuote = FavouriteQuote.Text;
+            string username = RegisterUsername.Text;
+            string password = RegisterPassword.Password;
+            string favoriteQuote = FavouriteQuote.Text;
 
+            if (username == "" || password == "" || favoriteQuote == "" || selectedImagePath == null)
+            {
+                RegisterError.Text = "Complete all the requirements, please";
+                return;
+            }
             if (users.Any(u => u.Username == username))
             {
                 RegisterError.Text = "Username already exists.";
                 return;
             }
 
-            string projectPath = Directory.GetCurrentDirectory();
+            //string projectPath = Directory.GetCurrentDirectory();
             string filename = String.Format("{0}_profile.png", username);
-            string destinationPath = Path.Combine(projectPath, "Users", "Profile_pic", filename);
+            string destinationPath = Path.Combine("Users", "Profile_pic", filename) /*Path.Combine(projectPath, "Users", "Profile_pic", filename)*/;
 
             File.Copy(selectedImagePath, destinationPath, true);
 
