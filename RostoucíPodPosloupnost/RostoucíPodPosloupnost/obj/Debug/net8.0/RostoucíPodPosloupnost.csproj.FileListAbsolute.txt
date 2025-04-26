@@ -1,0 +1,15 @@
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\bin\Debug\net8.0\RostoucíPodPosloupnost.exe
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\bin\Debug\net8.0\RostoucíPodPosloupnost.deps.json
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\bin\Debug\net8.0\RostoucíPodPosloupnost.runtimeconfig.json
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\bin\Debug\net8.0\RostoucíPodPosloupnost.dll
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\bin\Debug\net8.0\RostoucíPodPosloupnost.pdb
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.AssemblyInfoInputs.cache
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.AssemblyInfo.cs
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.csproj.CoreCompileInputs.cache
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.sourcelink.json
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.dll
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\refint\RostoucíPodPosloupnost.dll
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.pdb
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\RostoucíPodPosloupnost.genruntimeconfig.cache
+C:\Users\nonde\Desktop\repos\Nondek\RostoucíPodPosloupnost\RostoucíPodPosloupnost\obj\Debug\net8.0\ref\RostoucíPodPosloupnost.dll

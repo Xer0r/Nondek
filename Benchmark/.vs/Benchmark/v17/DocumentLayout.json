@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nonde\\Desktop\\repos\\Nondek\\Benchmark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF60E8B6-51C4-47A1-B2C0-DDAF7826B84B}|Benchmark\\Benchmark.csproj|c:\\users\\nonde\\desktop\\repos\\nondek\\benchmark\\benchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF60E8B6-51C4-47A1-B2C0-DDAF7826B84B}|Benchmark\\Benchmark.csproj|solutionrelative:benchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nonde\\Desktop\\repos\\Nondek\\Benchmark\\Benchmark\\Program.cs",
+              "RelativeDocumentMoniker": "Benchmark\\Program.cs",
+              "ToolTip": "C:\\Users\\nonde\\Desktop\\repos\\Nondek\\Benchmark\\Benchmark\\Program.cs",
+              "RelativeToolTip": "Benchmark\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:18:08.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

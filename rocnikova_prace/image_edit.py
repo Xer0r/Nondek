@@ -24,7 +24,9 @@ def Recognise_image():
     picture.save('myImage4.png')
     img = cv2.imread('digits/digit{}.png'.format(count))[:,:,0]
     img= cv2.copyMakeBorder(img, 4, 4, 4, 4, cv2.BORDER_CONSTANT, value = [255,255,255])
+    Image.fromarray(img).save('myImage5.png')
     img = np.invert(img)
+    Image.fromarray(img).save('myImage6.png')
     image_arr = np.array(img).astype("float32") / 255.0
     image_arr = np.expand_dims(image_arr, 0)
     image_arr = np.expand_dims(image_arr, -1)

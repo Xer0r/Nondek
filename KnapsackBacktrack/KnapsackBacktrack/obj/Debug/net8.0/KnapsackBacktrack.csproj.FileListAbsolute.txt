@@ -1,0 +1,15 @@
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\bin\Debug\net8.0\KnapsackBacktrack.exe
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\bin\Debug\net8.0\KnapsackBacktrack.deps.json
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\bin\Debug\net8.0\KnapsackBacktrack.runtimeconfig.json
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\bin\Debug\net8.0\KnapsackBacktrack.dll
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\bin\Debug\net8.0\KnapsackBacktrack.pdb
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.AssemblyInfoInputs.cache
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.AssemblyInfo.cs
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.csproj.CoreCompileInputs.cache
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.sourcelink.json
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.dll
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\refint\KnapsackBacktrack.dll
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.pdb
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\KnapsackBacktrack.genruntimeconfig.cache
+C:\Users\nonde\Desktop\repos\Nondek\KnapsackBacktrack\KnapsackBacktrack\obj\Debug\net8.0\ref\KnapsackBacktrack.dll

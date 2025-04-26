@@ -2,13 +2,6 @@ import turtle
 from turtle import *
 import image_edit
 
-
-
-
-
-
-
-
 size = 400
 screen = turtle.Screen()
 screen.screensize(size,size,)
